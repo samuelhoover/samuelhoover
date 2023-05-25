@@ -4,7 +4,7 @@
 - I use computational methods to study the phase behavior of model polymer systems
 
 ### Projects in the pipeline:
-- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous material <br>
+- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials <br>
 - Developing theory for polyzwitterion-polyelectrolyte complexation<br>
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior<br>
 
