@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a 3rd year Chemical Engineering Ph.D. candidate
+- I study the phase behavior of model polymeric systems
+- I'm currently using explainable machine learning to study how monomer sequence impacts microphase behavior
 <!--
 **samuelhoover/samuelhoover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
