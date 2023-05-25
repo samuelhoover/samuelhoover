@@ -1,9 +1,9 @@
 ### Hi there 👋🏻
 
-- I'm a 3rd year Chemical Engineering Ph.D. candidate
-- I study the phase behavior of model polymeric systems
+- I'm a 3rd year Chemical Engineering Ph.D. candidate at UMass Amherst
+- I use computational methods to study the phase behavior of model polymer systems
 
-Projects in the pipeline:
+<h3 align="left">Projects in the pipeline:</h3>
 - Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials
 - Developing theory for polyzwitterion-polyelectrolyte complexation
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior
