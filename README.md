@@ -4,8 +4,11 @@
 - I use computational methods to study the phase behavior of model polymer systems
 - Currently on an internship at Triton Systems, Inc.!
 
+### Completed projects:
+- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">[Ref]</a> <br>
+- Spinodal decomposition via the Cahn-Hilliard equation <a href="https://github.com/samuelhoover/spinodal-decomposition/tree/master">[repo]</a> <br>
+
 ### Projects in the pipeline:
-- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials <br>
 - Developing theory for polyzwitterion-polyelectrolyte complexation<br>
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior<br>
 
