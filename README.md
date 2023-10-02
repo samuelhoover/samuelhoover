@@ -4,13 +4,13 @@
 - I use computational methods to study the phase behavior of model polymer systems
 
 ### Completed projects:
-- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">[Ref]</a>
-- Spinodal decomposition via the Cahn-Hilliard equation <a href="https://github.com/samuelhoover/spinodal-decomposition/tree/master">[repo]</a>
+- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
+- Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
+- Creating an autograder for the senior lab course I'm TA'ing [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
 ### Projects in the pipeline:
 - Developing theory for polyzwitterion-polyelectrolyte complexation
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior
-- Creating an autograder for the senior lab course I'm TA'ing
 
 ### I'm currently learning:
 - Creating dashboards using <a href="https://dash.plotly.com/">Dash</a> on 2008 - 2020 county-level US Presidental election data
