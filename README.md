@@ -6,7 +6,7 @@
 ### Completed projects:
 - Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
-- Creating an autograder for the senior lab course I'm TA'ing [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
+- Autograder for the senior lab course I'm TA'ing [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
 ### Projects in the pipeline:
 - Developing theory for polyzwitterion-polyelectrolyte complexation
