@@ -1,20 +1,16 @@
-### Hi there 👋🏻
+**Actively looking for full-time opportunities starting Summer 2024!**\
+Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills
 
-- I'm a 4th year Chemical Engineering Ph.D. candidate at UMass Amherst
-- I use computational methods to study the phase behavior of model polymer systems
+I am a PPG Fellow and 4th year Chemical Engineering Ph.D. candidate at UMass Amherst. I use a variety of computational and analytical methods to study the phase behavior of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu).
 
-### Completed projects:
+### Selected projects:
 - Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
-- Autograder for the senior lab course I'm TA'ing [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
+- Autograder for the senior lab course I have TA'ed [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
 ### Projects in the pipeline:
 - Developing theory for polyzwitterion-polyelectrolyte complexation
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior
-
-### I'm currently learning:
-- Creating dashboards using <a href="https://dash.plotly.com/">Dash</a> on 2008 - 2020 county-level US Presidental election data
-- Breath VOC analysis for medical screening <a href="https://iopscience.iop.org/article/10.1088/1752-7163/acb283">[Ref]</a>
 
 ### Languages and Tools:
 
