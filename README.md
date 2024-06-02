@@ -9,7 +9,7 @@ I am a PPG Fellow and 4th year Chemical Engineering Ph.D. candidate at UMass Amh
 - Autograder for the senior lab course I have TA'ed [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
 ### Projects in the pipeline:
-- Developing theory for polyzwitterion-polyelectrolyte complexation
+- Developing theory for polyzwitterion-polyelectrolyte complexation [in submission]
 - Using explainable machine learning to study how monomer sequence impacts microphase behavior
 
 ### Languages and Tools:
