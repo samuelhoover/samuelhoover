@@ -1,4 +1,4 @@
-**Actively looking for full-time opportunities starting Summer 2024!**\
+**Actively looking for full-time opportunities starting Fall 2024!**\
 Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills
 
 I am a PPG Fellow and 4th year Chemical Engineering Ph.D. candidate at UMass Amherst. I use a variety of computational and analytical methods to study the phase behavior of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu).
