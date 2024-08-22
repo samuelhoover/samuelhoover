@@ -4,13 +4,13 @@ Check out my [personal webpage](https://samuelhoover.github.io) for more details
 I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and former PPG Fellow. I use a variety of computational and analytical methods to study the phase behavior and self-assembly of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu).
 
 ### Selected projects:
-- Developing theory for polyzwitterion-polyelectrolyte complexation [accepted]
-- Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
+- Theory for pH-responsive polyzwitterion-polyelectrolyte complexation [[Ref]](https://doi.org/10.1039/D4SM00575A)
+- 3D convolutional neural networks to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
 - Helper script for the senior lab course I have TA'ed [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
 ### Projects in the pipeline:
-- Using explainable machine learning to study how monomer sequence impacts microphase behavior [in preparation]
+- Explainable machine learning to study how monomer sequence impacts microphase behavior [in preparation]
 - Atomistic, explicit solvent simulation to validate findings from [Chen, S. & Wang, Z.-G. *PNAS* 2022](https://doi.org/10.1073/pnas.2209975119)
 
 ### Languages and Tools:
