@@ -1,5 +1,5 @@
 **Actively looking for full-time opportunities starting Fall 2024!**\
-Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills
+Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills.
 
 I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and former PPG Fellow. I use a variety of computational and analytical methods to study the phase behavior and self-assembly of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu).
 
