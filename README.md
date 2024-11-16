@@ -8,6 +8,7 @@ I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and former 
 - 3D convolutional neural networks to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
 - Helper script for the senior lab course I have TA'ed [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
+- N-dimensional free energy minimization script [[repo]](https://github.com/samuelhoover/free-energy-minimization)
 
 ### Projects in the pipeline:
 - Explainable machine learning to study how monomer sequence impacts microphase behavior [in preparation]
