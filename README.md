@@ -1,13 +1,13 @@
-**Actively looking for full-time opportunities starting Fall 2024!**\
+**Actively looking for full-time opportunities in Vancouver, BC, CA starting ASAP!**\
 Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills.
 
-I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and former PPG Fellow. I use a variety of computational and analytical methods to study the phase behavior and self-assembly of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu).
+I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and PPG Fellow. I use a variety of computational and analytical methods to study the phase behavior and self-assembly of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu). I have 6 years of hands-on experience in computational chemistry, computational biology, building machine and deep learning models, and developing scientific software tools.
 
 ### Selected projects:
 - Theory for pH-responsive polyzwitterion-polyelectrolyte complexation [[Ref]](https://doi.org/10.1039/D4SM00575A)
 - 3D convolutional neural networks to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
-- Helper script for the senior lab course I have TA'ed [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
+- Automation script for the senior lab course I have TA'ed, saved 8 hours over the course of the semester [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 - N-dimensional free energy minimization script [[repo]](https://github.com/samuelhoover/free-energy-minimization)
 
 ### Projects in the pipeline:
@@ -22,7 +22,7 @@ I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and former 
 <img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img alt="sklearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=blue">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white">
