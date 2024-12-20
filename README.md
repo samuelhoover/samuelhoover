@@ -15,4 +15,4 @@ I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and PPG Fel
 - Atomistic, explicit solvent simulation to validate findings from [Chen, S. & Wang, Z.-G. *PNAS* 2022](https://doi.org/10.1073/pnas.2209975119)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,rust,c,bash,pytorch,sklearn,sqlite,postgres,docker,latex,md,neovim,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,c,bash,pytorch,sklearn,sqlite,postgres,docker,latex,md,html,neovim,obsidian)](https://skillicons.dev)
