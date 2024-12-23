@@ -9,6 +9,7 @@ I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and PPG Fel
 - Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
 - Automation script for the senior lab course I have TA'ed, saved 8 hours over the course of the semester [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 - N-dimensional free energy minimization script [[repo]](https://github.com/samuelhoover/free-energy-minimization)
+- 2d Ising model implemented in Rust [[repo]](https://github.com/samuelhoover/ising-rust/)
 
 ### Projects in the pipeline:
 - Explainable machine learning to study how monomer sequence impacts microphase behavior [in preparation]
