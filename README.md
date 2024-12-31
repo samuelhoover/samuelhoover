@@ -6,10 +6,8 @@ I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and PPG Fel
 ### Selected projects:
 - Theory for pH-responsive polyzwitterion-polyelectrolyte complexation [[Ref]](https://doi.org/10.1039/D4SM00575A)
 - 3D convolutional neural networks to predict adsorption properties in nanoporous materials [[Ref]](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
-- Spinodal decomposition via the Cahn-Hilliard equation [[repo]](https://github.com/samuelhoover/spinodal-decomposition/tree/master)
 - Automation script for the senior lab course I have TA'ed, saved 8 hours over the course of the semester [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
-- N-dimensional free energy minimization script [[repo]](https://github.com/samuelhoover/free-energy-minimization)
-- 2d Ising model implemented in Rust [[repo]](https://github.com/samuelhoover/ising-rust/)
+- Ising model implemented in Rust: 1 billion steps, 2,000 x 2,000 square lattice, 6 seconds [[repo]](https://github.com/samuelhoover/ising-rust/)
 
 ### Projects in the pipeline:
 - Explainable machine learning to study how monomer sequence impacts microphase behavior [in preparation]
