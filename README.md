@@ -1,4 +1,4 @@
-**Actively looking for full-time opportunities in Los Angeles, CA, USA and Vancouver, BC, CA!**\
+**Actively looking for full-time opportunities! Open to relocation, including Canada and the EU.**\
 Check out my [personal webpage](https://samuelhoover.github.io) for more details about my experience and skills.
 
 I am a recent Chemical Engineering Ph.D. graduate from UMass Amherst and PPG Fellow. I use a variety of computational and analytical methods to study the phase behavior and self-assembly of synthetic and biological systems in the [Muthukumar Group](http://theory.pse.umass.edu). I have 6 years of hands-on experience building machine learning models and developing scientific software tools for both computational chemistry and computational biology.
