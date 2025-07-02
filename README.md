@@ -13,4 +13,4 @@ I have a Chemical Engineering Ph.D. from UMass Amherst and am PPG Fellow. I use 
 - Atomistic, explicit solvent simulation to validate findings from [Chen, S. & Wang, Z.-G. *PNAS* 2022](https://doi.org/10.1073/pnas.2209975119)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,pytorch,sklearn,sqlite,postgres,docker,latex,html,neovim,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,pytorch,sklearn,opencv,postgres,docker,latex,neovim,obsidian)](https://skillicons.dev)
